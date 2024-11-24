@@ -19,7 +19,7 @@ This repository contains a Django REST framework-based application for managing 
 
 #### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/<username>/lead-management.git
+git clone https://github.com/aman-bits/leads-service.git
 cd lead-management
 ```
 
